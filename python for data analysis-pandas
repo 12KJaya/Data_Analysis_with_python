@@ -1,0 +1,69 @@
+Application of python
+---------------------------------------------------------------------------------------------
+1.Web Scraping-you can extract content from particular webpage.
+2.You can perfrom Web development
+3.You can perform testing.
+4.You can perfrom Data Analysis.
+
+
+
+
+
+Data Life Cycle
+---------------------------------------------------------------------------------------------
+1.Data is stored in different formats (we can have csv file,excel file,or html file) now what we do we convert that data or transform that data into a single format and store it somewhere(that's where data warehousing comes into picture).
+2.Onces we have stored some data we can perform certain analysis on it.(we can perform predictive modeling,we can join merge data).
+3.Now onces we have done the analysis we can even plot it in the form of graph and that stage is known as Data visualization.
+
+
+
+
+
+Data Analysis using Python
+---------------------------------------------------------------------------------------------
+1.Pandas is a software library written for the python programming language for data manipulation nad analysis.
+2.Matplotlib is basically a data visualization module that we use in python.
+3.Numpy is actually a fundamental package forscientific computing in python.It contains a powerful n dimensional array object.It has tools for integrating with C,C++.It is very useful in performing linear algebra of fourier transform random number capabilities etc.
+4.Scipy is a open source python module used for scientific computing and technical computing.It contain module for optimization andlinear algebra,integrationiterpolationspecial function,fourier transforms.
+
+
+
+
+
+Pandas
+---------------------------------------------------------------------------------------------
+1.Pandas is an open source data analysis library written in python.
+2.It leverages the power and speed of numpy to make data analysis and preprocessing easy for data scientists.
+3.It provides rich and highly robust data operations.
+
+
+
+
+
+Pandas Data Structure
+---------------------------------------------------------------------------------------------
+1.Pandas has two types of data structure-
+    a.series-
+        It's a one-dimensional array with indexes,it stores a single column or row of data in a DatFrame.
+    b.DataFrame-
+        It's a tabular spreadsheet like structure representing rows each of which contains one or multiple columns.
+2.A one-dimensional array(labeled) capable of holding any type of data-series.
+3.A two-dimensional data(labeled) structure with columns of potentially different types of data-DataFrame.
+
+
+
+
+
+Pandas Operations
+--------------------------------------------------------------------------------------------
+1.Slicing the Dataframe-you can slice the dataframe if you want only a particular part.
+2.Changing the index-you can change the index value.
+3.Data Conversion-you can convert the data into a different format.
+4.Changing the column headers-you can change the column header.
+5.Concatenation-you can perform concatenation of multiple dataframe.
+6.Joining and merging-you can perform joining or merging of two or more data frames.
+
+
+
+
+
